@@ -88,7 +88,7 @@ const fs = require('fs');
 
     console.log(`Idea ${i + 1} prepared successfully.`);
 
-    // ⚠️ Demo-safe (do NOT auto-publish)
+
     // await page.keyboard.press('Alt+Enter');
 
     await page.waitForTimeout(6000);

@@ -3,7 +3,7 @@ const { chromium } = require('playwright');
 (async () => {
   const browser = await chromium.launch({
     headless: false,
-    channel: 'chrome'   // <<< THIS IS THE FIX
+    channel: 'chrome'   
   });
 
   const context = await browser.newContext();
