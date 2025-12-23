@@ -1,0 +1,24 @@
+[
+  {
+    "title": "EURUSD Short on Resistance",
+    "ticker": "EURUSD",
+    "position": "short",
+    "category": "Forex",
+    "tags": [
+      "Resistance",
+      "Bearish",
+      "Candlestick Pattern"
+    ]
+  },
+  {
+    "title": "Bitcoin Range Consolidation",
+    "ticker": "BTC",
+    "position": "neutral",
+    "category": "Cryptocurrency",
+    "tags": [
+      "consolidation",
+      "range-bound",
+      "no trade"
+    ]
+  }
+]
